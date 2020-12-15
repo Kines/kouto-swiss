@@ -101,7 +101,7 @@
   },
   "dependencies": {
     "prefiks": "^0.3",
-    "stylus": "0.54.5"
+    "stylus": "0.54.8"
   },
   "devDependencies": {
     "chalk": "^1.1.1",
